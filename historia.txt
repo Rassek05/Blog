@@ -6,8 +6,5 @@ Es futbolista desde los 7 hasta el dia de hoy con 23
 
 master 1
 
-<<<<<<< HEAD
 master 2
-=======
 experimento 1
->>>>>>> cdae6a0 (experiment 1)
